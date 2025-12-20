@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+vehicle_model.h5
+*.h5
+__pycache__/
+.env
+=======
+vehicle_model.h5
+*.h5
+__pycache__/
+.env
+>>>>>>> 6d6c5e1a67a0f4bdb3996bb1e4733b62164a5f3c
