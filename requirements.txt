@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 streamlit
 tensorflow
 numpy
-=======
-streamlit
-tensorflow
-numpy
->>>>>>> 6d6c5e1a67a0f4bdb3996bb1e4733b62164a5f3c
 pillow
