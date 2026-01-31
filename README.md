@@ -25,22 +25,6 @@ A Streamlit web application is used to:
 - Perform real-time prediction
 - Display predicted vehicle type
 
-## ▶ How to Run Locally
-
-1. Clone the repository:
-```bash
-git clone https://github.com/alishibaghatge/vehicle-image-classification.git
-cd vehicle-image-classification
-```
-2. Install required dependencies:
-```bash
-pip install -r requirements.txt
-```
-3. Run the application:
-```bash
-streamlit run app.py
-```
----
 
 ## 🌐 Deployment
 The application is deployed on **Streamlit Cloud**, allowing users to access the model online for real-time predictions.
