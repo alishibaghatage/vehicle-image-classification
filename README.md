@@ -2,6 +2,9 @@
 
 This project is an AI-powered vehicle recognition system that classifies vehicle images into **Car, Bike, and Bus** categories using a **Convolutional Neural Network (CNN)**.
 
+🚀 Live Demo
+https://vehicle-image-classification-e7zg4ykxklbbyhvqq3r65c.streamlit.app/
+
 ## 🔧 Technologies Used
 - Python
 - TensorFlow / Keras
